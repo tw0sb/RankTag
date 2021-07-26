@@ -1,0 +1,9 @@
+name: RankTag
+main: xyz.twosb.RankTag
+version: 0.1
+api-version: 1.13
+softdepend: [Vault]
+commands:
+   ranktag:
+      description: update all rank tags
+      usage: /<command>
